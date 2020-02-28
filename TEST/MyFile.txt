@@ -1,1 +1,2 @@
 This is the begining of the file
+a new bug is cleared
